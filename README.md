@@ -2,6 +2,9 @@
 
 A private, offline-friendly birthday video editor with cinematic photo animations, custom audio trimming, and H.264 MP4 export—all in your browser.
 
+<img width="2331" height="1585" alt="image" src="https://github.com/user-attachments/assets/60384dd9-a596-478b-8d02-13afc5842dfd" />
+
+
 ## Features
 
 - Create birthday montages from your photos and personalized wishes.
